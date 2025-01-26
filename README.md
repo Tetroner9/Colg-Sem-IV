@@ -2,7 +2,7 @@
 
 ## Requirements
 
-[Python]([text](https://www.python.org/downloads/))
+[Python](https://www.python.org/downloads/)
 
 ## Python
 
