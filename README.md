@@ -2,7 +2,7 @@
 
 ## Requirements
 
-**_This repository contains project files for specific versions. Make sure to use the same version to prevent any issues._**
+[Python]([text](https://www.python.org/downloads/))
 
 ## Python
 
